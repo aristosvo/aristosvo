@@ -12,7 +12,19 @@ I'm Aris, a DevOps kinda guy who likes to code and optimize.
  <img src="https://user-images.githubusercontent.com/8375124/125620812-c47ed940-5d1a-42bb-aee7-9525f2b6f6ef.png" width="100">   <img src="https://user-images.githubusercontent.com/8375124/125620848-9ceabada-eb40-4eff-b63a-db70253a33b0.png" width="100"> <img src="https://user-images.githubusercontent.com/8375124/125620826-6647d83d-03ce-4eff-8389-605e6ee99ddb.png" width="100"> 
 
  
-
-
-
-
+---
+<p align="center">
+  <a href="https://github.com/aristosvo?tab=repositories">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=aristosvo&layout=compact"
+    />
+  </a>
+  <a href="https://github.com/gamussa?tab=repositories">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=aristosvo&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
+    />
+  </a>
+</p>
