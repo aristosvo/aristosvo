@@ -20,7 +20,7 @@ I'm Aris, a DevOps kinda guy who likes to code and optimize.
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=aristosvo&layout=compact"
     />
   </a>
-  <a href="https://github.com/gamussa?tab=repositories">
+  <a href="https://github.com/aristosvo?tab=repositories">
     <img
       align="center"
       height="165"
