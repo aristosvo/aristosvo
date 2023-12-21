@@ -6,8 +6,6 @@ I'm Aris, a DevOps kinda guy who likes to code and optimize.
 - ⌨️ I've been actively contributing to the [Azure Terraform Provider](https://github.com/terraform-providers/terraform-provider-azurerm)
 - 💬 Ask me about Terraform, Azure, Kubernetes, Observability, IaC 🔥🔥
 
-![image]()
-
 ---
 <p align="center">
  <a>
